@@ -1,0 +1,50 @@
+// Data file for CMSC495 Basketball Simulation Project
+// Fall 2015
+
+// Team format:
+// t:<location>:<name>
+t : Chicago       : Bulls
+t : Golden State  : Warriors
+t : Los Angeles   : Lakers
+t : Miami         : Heat
+t : Oklahoma City : Thunder
+t : UMUC          : Nighthawks
+
+// Players format:
+// p:<first name>:<last name>:<team>:<position>:<strength>:<quickness>:<defense>:<passing>:<shooting>:<dribble>:<aggression>:<height>
+//  first      last        team         pos  str  qck  def  pas  sho  dri  agg  hgt
+p : Ron      : Harper    : Bulls      : PG : 20 : 80 : 60 : 80 : 60 : 80 : 30 : 20
+p : Michael  : Jordan    : Bulls      : SG : 30 : 60 : 100 : 50 : 100 : 50 : 70 : 40
+p : Scottie  : Pippen    : Bulls      : SF : 50 : 60 : 60 : 60 : 75 : 60 : 65 : 70
+p : Dennis   : Rodman    : Bulls      : PF : 75 : 45 : 75 : 45 : 30 : 50 : 100 : 80
+p : Luc      : Longley   : Bulls      : C  : 90 : 30 : 90 : 30 : 30 : 30 : 30 : 95
+
+p : Stephen  : Curry     : Warriors   : PG : 30 : 90 : 30 : 50 : 100 : 100 : 60 : 40
+p : Klay     : Thompson : Warriors   : SG : 30 : 60 : 50 : 60 : 90 : 75 : 60 : 40
+p : Harrison : Barnes    : Warriors   : SF : 50 : 50 : 60 : 50 : 60 : 60 : 80 : 70
+p : Draymond : Green     : Warriors   : PF : 75 : 45 : 75 : 45 : 60 : 45 : 50 : 80
+p : Andrew   : Bogut     : Warriors   : C  : 90 : 30 : 90 : 30 : 30 : 30 : 30 : 95
+
+p : Derek    : Fisher    : Lakers     : PG : 30 : 60 : 60 : 70 : 50 : 60 : 40 : 20
+p : Kobe     : Bryant    : Lakers     : SG : 40 : 60 : 50 : 50 : 100 : 90 : 60 : 40
+p : Luke     : Walton    : Lakers     : SF : 50 : 50 : 50 : 60 : 60 : 50 : 50 : 60
+p : Pau      : Gasol     : Lakers     : PF : 50 : 50 : 50 : 60 : 70 : 50 : 60 : 80
+p : Andrew   : Bynum     : Lakers     : C  : 80 : 30 : 80 : 50 : 50 : 40 : 60 : 95
+
+p : Mario    : Chalmers  : Heat       : PG : 50 : 50 : 50 : 50 : 50 : 50 : 50 : 10
+p : Dwyane   : Wade      : Heat       : SG : 50 : 80 : 60 : 50 : 90 : 80 : 60 : 30
+p : LeBron   : James     : Heat       : SF : 70 : 30 : 60 : 50 : 70 : 50 : 100 : 70
+p : Udonis   : Haslem    : Heat       : PF : 80 : 30 : 60 : 50 : 40 : 40 : 50 : 80
+p : Chris    : Bosh      : Heat       : C  : 80 : 40 : 70 : 50 : 80 : 45 : 50 : 85
+
+p : Russell  : Westbrook : Thunder    : PG : 20 : 100 : 50 : 50 : 90 : 100 : 70 : 20
+p : James    : Harden    : Thunder    : SG : 30 : 70 : 50 : 50 : 100 : 50 : 80 : 40
+p : Kevin    : Durant    : Thunder    : SF : 30 : 70 : 50 : 50 : 100 : 80 : 50 : 70
+p : Serge    : Ibaka     : Thunder    : PF : 90 : 30 : 40 : 50 : 40 : 30 : 80 : 90
+p : Kendrick : Perkins   : Thunder    : C  : 100 : 30 : 40 : 30 : 40 : 30 : 40 : 90
+
+p : Chris    : Emmett    : Nighthawks : PG : 20 : 90 : 80 : 100 : 50 : 80 : 60 : 10
+p : Michael  : Krueger   : Nighthawks : SG : 20 : 90 : 80 : 50 : 90 : 80 : 60 : 30
+p : Darren   : Reifler   : Nighthawks : SF : 50 : 60 : 80 : 50 : 70 : 70 : 60 : 60
+p : Zachary  : Travis    : Nighthawks : PF : 70 : 40 : 80 : 50 : 70 : 40 : 60 : 90
+p : David    : Zheng     : Nighthawks : C  : 80 : 30 : 80 : 50 : 60 : 40 : 60 : 100
